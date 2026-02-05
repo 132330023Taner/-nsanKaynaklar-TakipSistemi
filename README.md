@@ -1,5 +1,5 @@
 # InsanKaynaklar-TakipSistemi
-# Personel Takip Sistemi
+# Personel Takip Sistemi 
 
 Bu proje, Windows Forms kullanılarak geliştirilmiş bir **Personel Takip Sistemi** uygulamasıdır.  
 Proje kapsamında personel, departman, izin, maaş ve performans işlemleri yönetilmektedir.
