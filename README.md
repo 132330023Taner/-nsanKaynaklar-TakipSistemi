@@ -4,6 +4,9 @@
 Bu proje, Windows Forms kullanılarak geliştirilmiş bir **Personel Takip Sistemi** uygulamasıdır.  
 Proje kapsamında personel, departman, izin, maaş ve performans işlemleri yönetilmektedir.
 
+## Video ile Anlatım
+https://www.youtube.com/watch?v=G-r8PTPIoNI
+
 ## Kullanılan Teknolojiler
 - C# (.NET Framework / WinForms)
 - Katmanlı Mimari (UI, BLL, DAL)
@@ -34,5 +37,3 @@ Proje kapsamında personel, departman, izin, maaş ve performans işlemleri yön
 - Ad Soyad: Taner Kocatepe
 - Öğrenci No: 132330023
 
-## Video ile Anlatım
-https://www.youtube.com/watch?v=G-r8PTPIoNI
