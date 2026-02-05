@@ -1,4 +1,4 @@
-# -nsanKaynaklar-TakipSistemi
+# İnsanKaynaklar-TakipSistemi
 # Personel Takip Sistemi
 
 Bu proje, Windows Forms kullanılarak geliştirilmiş bir **Personel Takip Sistemi** uygulamasıdır.  
