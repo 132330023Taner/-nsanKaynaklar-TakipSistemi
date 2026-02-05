@@ -33,3 +33,6 @@ Proje kapsamında personel, departman, izin, maaş ve performans işlemleri yön
 ## Geliştirici
 - Ad Soyad: Taner Kocatepe
 - Öğrenci No: 132330023
+
+## Video ile Anlatım
+https://www.youtube.com/watch?v=G-r8PTPIoNI
